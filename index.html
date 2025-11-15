@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
 
     <!-- SEO META TAGS -->
-    <title>Chamith Udayanga | Software Engineer</title>
+    <title>Chamith Udayanga</title>
     <meta name="description" content="Official personal page of Chamith Udayanga — Software Engineer specializing in Golang, distributed systems, and backend development.">
     <meta name="keywords" content="Chamith Udayanga,Senior Software Engineer, Golang Developer, Backend Engineer, Distributed Systems, chamith.dev, chamith.com">
     <meta name="author" content="Chamith Udayanga">
@@ -17,7 +17,7 @@
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Chamith Udayanga | Software Engineer">
+    <meta name="twitter:title" content="Chamith Udayanga">
     <meta name="twitter:description" content="Software Engineer specializing in Golang and backend systems.">
 
     <!-- Responsive -->
@@ -39,15 +39,17 @@
             font-size: 36px;
             margin-bottom: 40px;
         }
-        a {
-            display: block;
+        .link {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
             margin: 12px;
-            font-size: 20px;
-            font-weight: 500;
+            font-size: 16px;
             color: #000;
             text-decoration: none;
         }
-        a:hover {
+        .link:hover {
             opacity: 0.7;
         }
         footer {
@@ -61,13 +63,23 @@
 <body>
 
     <h1>Chamith Udayanga</h1>
-
-    <a href="https://github.com/udayangaac" target="_blank">GitHub</a>
-    <a href="https://linkedin.com/in/udayangaac" target="_blank">LinkedIn</a>
-    <a href="https://medium.com/@udayangaac" target="_blank">Medium</a>
+    <p>
+        <a class="link" href="https://github.com/udayangaac" target="_blank">
+            <img height="16" width="16" class="icon" src="icons/github.svg" alt="GitHub">
+            GitHub
+        </a>
+        <a class="link" href="https://medium.com/@udayangaac" target="_blank">
+            <img height="16" width="16" class="icon" src="icons/medium.svg" alt="Medium">
+            Medium
+        </a>
+        <a class="link" href="https://linkedin.com/in/udayangaac" target="_blank">
+            <img height="16" width="16" class="icon" src="icons/linkedin.svg" alt="LinkedIn">
+            LinkedIn
+        </a>
+    </p>
 
     <footer>
-        © 2020 chamith.me
+        © 2020
     </footer>
 
 </body>
