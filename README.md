@@ -1,1 +1,1 @@
-# chamith
+# Chamith.me
