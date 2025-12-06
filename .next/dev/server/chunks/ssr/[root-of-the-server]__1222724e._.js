@@ -41,11 +41,11 @@ function Home() {
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                     className: "text-xl mb-10 text-black dark:text-white",
                     children: [
-                        "I'm a distributed systems enthusiast with a passion for creating high-performance services. ",
+                        "I'm a distributed systems enthusiast and a deep learning / AI researcher with a passion for creating high-performance services.",
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                             fileName: "[project]/app/page.tsx",
                             lineNumber: 14,
-                            columnNumber: 108
+                            columnNumber: 143
                         }, this),
                         "I love diving into the intricacies of distributed systems, pushing the boundaries of performance, ",
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
@@ -53,7 +53,7 @@ function Home() {
                             lineNumber: 15,
                             columnNumber: 109
                         }, this),
-                        "and experimenting with advanced algorithms and AI."
+                        "and experimenting with advanced algorithms and AI-driven techniques."
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/page.tsx",

@@ -1,295 +1,39 @@
-[00:00:01.220] Server  LOG      ✓ Ready in 859ms
-[00:03:27.870] Server  LOG      ✓ Compiled in 10ms
-[00:04:23.163] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
-[00:04:43.067] Server  LOG      ✓ Compiled in 14ms
-[00:04:56.602] Server  ERROR    ⨯ ./app/layout.tsx:5:1
-Module not found: Can't resolve '@/components/Footer'
-  3 | import "./globals.css";
-  4 | import Navbar from "@/components/Navbar";
-> 5 | import Footer from "@/components/Footer";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  6 |
-  7 | const geistSans = Geist({
-  8 |   variable: "--font-geist-sans",
-
-Import map: aliased to relative './components/Footer' inside of [project]/
-
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:04:56.603] Server  ERROR    ⨯ ./app/layout.tsx:5:1
-Module not found: Can't resolve '@/components/Footer'
-  3 | import "./globals.css";
-  4 | import Navbar from "@/components/Navbar";
-> 5 | import Footer from "@/components/Footer";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  6 |
-  7 | const geistSans = Geist({
-  8 |   variable: "--font-geist-sans",
-
-Import map: aliased to relative './components/Footer' inside of [project]/
-
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:04:56.620] Server  ERROR    ⨯ ./app/layout.tsx:5:1
-Module not found: Can't resolve '@/components/Footer'
-  3 | import "./globals.css";
-  4 | import Navbar from "@/components/Navbar";
-> 5 | import Footer from "@/components/Footer";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  6 |
-  7 | const geistSans = Geist({
-  8 |   variable: "--font-geist-sans",
-
-Import map: aliased to relative './components/Footer' inside of [project]/
-
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:04:56.622] Server  ERROR    ⨯ ./app/layout.tsx:5:1
-Module not found: Can't resolve '@/components/Footer'
-  3 | import "./globals.css";
-  4 | import Navbar from "@/components/Navbar";
-> 5 | import Footer from "@/components/Footer";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  6 |
-  7 | const geistSans = Geist({
-  8 |   variable: "--font-geist-sans",
-
-Import map: aliased to relative './components/Footer' inside of [project]/
-
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:04:56.623] Server  ERROR    ⨯ ./app/layout.tsx:5:1
-Module not found: Can't resolve '@/components/Footer'
-  3 | import "./globals.css";
-  4 | import Navbar from "@/components/Navbar";
-> 5 | import Footer from "@/components/Footer";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  6 |
-  7 | const geistSans = Geist({
-  8 |   variable: "--font-geist-sans",
-
-Import map: aliased to relative './components/Footer' inside of [project]/
-
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:04:56.625] Server  ERROR    ⨯ ./app/layout.tsx:5:1
-Module not found: Can't resolve '@/components/Footer'
-  3 | import "./globals.css";
-  4 | import Navbar from "@/components/Navbar";
-> 5 | import Footer from "@/components/Footer";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  6 |
-  7 | const geistSans = Geist({
-  8 |   variable: "--font-geist-sans",
-
-Import map: aliased to relative './components/Footer' inside of [project]/
-
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:04:56.627] Server  ERROR    ⨯ ./app/layout.tsx:5:1
-Module not found: Can't resolve '@/components/Footer'
-  3 | import "./globals.css";
-  4 | import Navbar from "@/components/Navbar";
-> 5 | import Footer from "@/components/Footer";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  6 |
-  7 | const geistSans = Geist({
-  8 |   variable: "--font-geist-sans",
-
-Import map: aliased to relative './components/Footer' inside of [project]/
-
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:04:56.630] Server  ERROR    ⨯ ./app/layout.tsx:5:1
-Module not found: Can't resolve '@/components/Footer'
-  3 | import "./globals.css";
-  4 | import Navbar from "@/components/Navbar";
-> 5 | import Footer from "@/components/Footer";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  6 |
-  7 | const geistSans = Geist({
-  8 |   variable: "--font-geist-sans",
-
-Import map: aliased to relative './components/Footer' inside of [project]/
-
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:04:56.632] Server  ERROR    ⨯ ./app/layout.tsx:5:1
-Module not found: Can't resolve '@/components/Footer'
-  3 | import "./globals.css";
-  4 | import Navbar from "@/components/Navbar";
-> 5 | import Footer from "@/components/Footer";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  6 |
-  7 | const geistSans = Geist({
-  8 |   variable: "--font-geist-sans",
-
-Import map: aliased to relative './components/Footer' inside of [project]/
-
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:04:56.634] Server  ERROR    ⨯ ./app/layout.tsx:5:1
-Module not found: Can't resolve '@/components/Footer'
-  3 | import "./globals.css";
-  4 | import Navbar from "@/components/Navbar";
-> 5 | import Footer from "@/components/Footer";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  6 |
-  7 | const geistSans = Geist({
-  8 |   variable: "--font-geist-sans",
-
-Import map: aliased to relative './components/Footer' inside of [project]/
-
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:04:56.635] Server  ERROR    ⨯ ./app/layout.tsx:5:1
-Module not found: Can't resolve '@/components/Footer'
-  3 | import "./globals.css";
-  4 | import Navbar from "@/components/Navbar";
-> 5 | import Footer from "@/components/Footer";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  6 |
-  7 | const geistSans = Geist({
-  8 |   variable: "--font-geist-sans",
-
-Import map: aliased to relative './components/Footer' inside of [project]/
-
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:04:56.636] Server  ERROR    ⨯ ./app/layout.tsx:5:1
-Module not found: Can't resolve '@/components/Footer'
-  3 | import "./globals.css";
-  4 | import Navbar from "@/components/Navbar";
-> 5 | import Footer from "@/components/Footer";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  6 |
-  7 | const geistSans = Geist({
-  8 |   variable: "--font-geist-sans",
-
-Import map: aliased to relative './components/Footer' inside of [project]/
-
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:04:57.194] Browser ERROR   ./app/layout.tsx:5:1
-Module not found: Can't resolve '@/components/Footer'
-  3 | import "./globals.css";
-  4 | import Navbar from "@/components/Navbar";
-> 5 | import Footer from "@/components/Footer";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  6 |
-  7 | const geistSans = Geist({
-  8 |   variable: "--font-geist-sans",
-
-Import map: aliased to relative './components/Footer' inside of [project]/
-
-https://nextjs.org/docs/messages/module-not-found
-[00:04:57.386] Browser ERROR   ./app/layout.tsx:5:1
-Module not found: Can't resolve '@/components/Footer'
-  3 | import "./globals.css";
-  4 | import Navbar from "@/components/Navbar";
-> 5 | import Footer from "@/components/Footer";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  6 |
-  7 | const geistSans = Geist({
-  8 |   variable: "--font-geist-sans",
-
-Import map: aliased to relative './components/Footer' inside of [project]/
-
-https://nextjs.org/docs/messages/module-not-found
-[00:07:17.640] Server  LOG      ✓ Compiled in 12ms
-[00:07:37.590] Server  LOG      ✓ Compiled in 13ms
-[00:07:44.535] Browser ERROR   ./app/page.tsx:14:13
-Parsing ecmascript source code failed
-  12 |         <P className="text-4xl font-bold mb-10 text-black dark:text-white">
-  13 |           Chamith Udayanga
-> 14 |         </p>
-     |             ^
-> 15 |
-     | ^
-> 16 |         {/* Social Links */}
-     | ^^^^^^^^^
-  17 |         <div className="flex flex-col items-center gap-4">
-  18 |           <a
-  19 |             className="flex items-center gap-3 text-lg text-black dark:text-white hover:opacity-70"
-
-Expected '</', got 'jsx text (
-
-        )'
-[00:07:47.465] Server  LOG      ✓ Compiled in 32ms
-[00:07:47.588] Browser ERROR   ./app/page.tsx:14:13
-Parsing ecmascript source code failed
-  12 |         <P className="text-xl font-bold mb-10 text-black dark:text-white">
-  13 |           Chamith Udayanga
-> 14 |         </p>
-     |             ^
-> 15 |
-     | ^
-> 16 |         {/* Social Links */}
-     | ^^^^^^^^^
-  17 |         <div className="flex flex-col items-center gap-4">
-  18 |           <a
-  19 |             className="flex items-center gap-3 text-lg text-black dark:text-white hover:opacity-70"
-
-Expected '</', got 'jsx text (
-
-        )'
-[00:08:01.855] Server  LOG      ✓ Compiled in 16ms
-[00:08:12.537] Server  LOG      ✓ Compiled in 12ms
-[00:11:17.593] Browser ERROR   ./app/page.tsx:15:13
-Parsing ecmascript source code failed
-  13 |           I&apos;m a distributed systems enthusiast with a passion for creating high-performance services. <br>
-  14 |           I love diving into the intricacies of distributed systems, pushing the boundaries of performance, and experimenting with advanced algorithms and AI.
-> 15 |         </p>
-     |             ^
-> 16 |         
-     | ^^^^^^^^
-> 17 |         {/* Social Links */}
-     | ^^^^^^^^^
-  18 |         <div className="flex flex-col items-center gap-4">
-  19 |           <a
-  20 |             className="flex items-center gap-3 text-lg text-black dark:text-white hover:opacity-70"
-
-Expected '</', got 'jsx text (
-        
-        )'
-[00:11:18.388] Browser ERROR   ./app/page.tsx:15:13
-Parsing ecmascript source code failed
-  13 |           I&apos;m a distributed systems enthusiast with a passion for creating high-performance services. <br>
-  14 |           I love diving into the intricacies of distributed systems, pushing the boundaries of performance, and experimenting with advanced algorithms and AI.
-> 15 |         </p>
-     |             ^
-> 16 |         
-     | ^^^^^^^^
-> 17 |         {/* Social Links */}
-     | ^^^^^^^^^
-  18 |         <div className="flex flex-col items-center gap-4">
-  19 |           <a
-  20 |             className="flex items-center gap-3 text-lg text-black dark:text-white hover:opacity-70"
-
-Expected '</', got 'jsx text (
-        
-        )'
+[00:00:03.467] Server  LOG      ✓ Ready in 3.2s
+[00:00:56.390] Server  WARN     ⚠ Cross origin request detected from 192.168.8.100 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+[00:01:21.102] Server  LOG      ✓ Compiled in 35ms
+[00:01:24.678] Server  LOG      ✓ Compiled in 26ms
+[00:03:49.349] Server  LOG      ✓ Compiled in 9ms
+[00:06:22.840] Server  LOG      ✓ Compiled in 13ms
+[00:06:25.089] Server  LOG      ✓ Compiled in 14ms
+[00:06:29.850] Server  LOG      ✓ Compiled in 11ms
+[00:06:39.459] Server  LOG      ✓ Compiled in 10ms
+[00:06:44.859] Server  LOG      ✓ Compiled in 9ms
+[00:07:28.813] Server  LOG      ✓ Compiled in 23ms
+[00:07:45.033] Server  LOG      ✓ Compiled in 11ms
+[00:10:31.047] Server  LOG      ✓ Compiled in 10ms
+[00:10:34.178] Server  LOG      ✓ Compiled in 8ms
+[00:49:40.081] Server  LOG      ✓ Compiled in 301ms
+[00:49:45.705] Server  LOG      ✓ Compiled in 134ms
+[00:49:53.461] Browser ERROR   Failed to fetch RSC payload for http://192.168.8.100:3000/. Falling back to browser navigation. {}
+[00:49:53.461] Browser ERROR   Failed to fetch RSC payload for http://192.168.8.100:3000/. Falling back to browser navigation. {}
+[00:49:53.461] Browser ERROR   Failed to fetch RSC payload for http://192.168.8.100:3000/. Falling back to browser navigation. {}
+[00:49:53.461] Browser ERROR   Failed to fetch RSC payload for http://192.168.8.100:3000/. Falling back to browser navigation. {}
+[00:49:53.461] Browser ERROR   Failed to fetch RSC payload for http://192.168.8.100:3000/. Falling back to browser navigation. {}
+[00:49:53.461] Browser ERROR   Failed to fetch RSC payload for http://192.168.8.100:3000/. Falling back to browser navigation. {}
+[00:49:53.461] Browser ERROR   Failed to fetch RSC payload for http://192.168.8.100:3000/. Falling back to browser navigation. {}
+[00:49:53.461] Browser ERROR   Failed to fetch RSC payload for http://192.168.8.100:3000/. Falling back to browser navigation. {}
+[00:49:53.461] Browser ERROR   Failed to fetch RSC payload for http://192.168.8.100:3000/. Falling back to browser navigation. {}
+[00:49:53.461] Browser ERROR   Failed to fetch RSC payload for http://192.168.8.100:3000/. Falling back to browser navigation. {}
+[00:49:53.461] Browser ERROR   Failed to fetch RSC payload for http://192.168.8.100:3000/. Falling back to browser navigation. {}
+[00:49:53.461] Browser ERROR   Failed to fetch RSC payload for http://192.168.8.100:3000/. Falling back to browser navigation. {}
+[00:49:53.461] Browser ERROR   Failed to fetch RSC payload for http://192.168.8.100:3000/. Falling back to browser navigation. {}
+[00:49:53.461] Browser ERROR   Failed to fetch RSC payload for http://192.168.8.100:3000/. Falling back to browser navigation. {}
+[00:49:53.461] Browser ERROR   Failed to fetch RSC payload for http://192.168.8.100:3000/. Falling back to browser navigation. {}
+[00:49:53.461] Browser ERROR   Failed to fetch RSC payload for http://192.168.8.100:3000/. Falling back to browser navigation. {}
+[00:49:53.461] Browser ERROR   Failed to fetch RSC payload for http://192.168.8.100:3000/. Falling back to browser navigation. {}
+[00:49:53.461] Browser ERROR   Failed to fetch RSC payload for http://192.168.8.100:3000/. Falling back to browser navigation. {}
+[00:49:53.461] Browser ERROR   Failed to fetch RSC payload for http://192.168.8.100:3000/. Falling back to browser navigation. {}
+[00:49:53.461] Browser ERROR   Failed to fetch RSC payload for http://192.168.8.100:3000/. Falling back to browser navigation. {}
+[00:49:53.461] Browser ERROR   Failed to fetch RSC payload for http://192.168.8.100:3000/. Falling back to browser navigation. {}
+[00:49:53.461] Browser ERROR   Failed to fetch RSC payload for http://192.168.8.100:3000/. Falling back to browser navigation. {}

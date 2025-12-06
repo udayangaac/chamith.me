@@ -19,8 +19,8 @@ export default function Navbar() {
 
           {/* Desktop Menu */}
           <div className="hidden md:flex space-x-8 text-white">
-            {/* <Link href="#about" className="hover:text-gray-500 transition">About</Link>
-            <Link href="#skills" className="hover:text-gray-500 transition">Skills</Link>
+            {/* <Link href="/publications" className="hover:text-gray-500 transition">Publications</Link> */}
+            {/*  <Link href="#skills" className="hover:text-gray-500 transition">Skills</Link>
             <Link href="#projects" className="hover:text-gray-500 transition">Projects</Link>
             <Link href="#contact" className="hover:text-gray-500 transition">Contact</Link> */}
           </div>
@@ -53,8 +53,8 @@ export default function Navbar() {
         {/* Mobile Dropdown */}
         {open && (
           <div className="md:hidden flex flex-col space-y-4 pb-4 text-gray-700">
-            {/* <Link href="#about" className="hover:text-blue-600">About</Link>
-            <Link href="#skills" className="hover:text-blue-600">Skills</Link>
+            {/* <Link href="/publications" className="hover:text-blue-600">Publications</Link> */}
+            {/* <Link href="#skills" className="hover:text-blue-600">Skills</Link>
             <Link href="#projects" className="hover:text-blue-600">Projects</Link>
             <Link href="#contact" className="hover:text-blue-600">Contact</Link> */}
           </div>

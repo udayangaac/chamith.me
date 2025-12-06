@@ -7,11 +7,11 @@ export default function Home() {
       <main className="flex flex-col items-center text-center px-6 pt-32">
         {/* Name */}
         <h1 className="text-4xl font-bold mb-10 text-black dark:text-white">
-          Chamith Udayanga
+          Hi, I&apos;m Chamith Udayanga.
         </h1>
         
         <p className="text-xl mb-10 text-black dark:text-white">
-          I&apos;m a distributed systems enthusiast and a deep learning / AI researcher with a passion for creating high-performance services.<br/>
+          A distributed systems enthusiast and a deep learning / AI researcher with a passion for creating high-performance services.<br/>
           I love diving into the intricacies of distributed systems, pushing the boundaries of performance, <br/>
           and experimenting with advanced algorithms and AI-driven techniques.
         </p>
