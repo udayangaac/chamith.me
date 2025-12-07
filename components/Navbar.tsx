@@ -13,8 +13,8 @@ export default function Navbar() {
         <div className="flex justify-between items-center h-16">
 
           {/* Logo */}
-          <Link href="/" className="text-2xl font-bold text-white">
-            chamith.me<span className="text-white"></span>
+          <Link href="/" className="text-2xl font-bold text-black dark:text-white">
+            chamith<span className="text-indigo-500 dark:text-indigo-300">.me</span>
           </Link>
 
           {/* Desktop Menu */}

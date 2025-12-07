@@ -26,6 +26,10 @@
 @layer theme {
   :root, :host {
     --color-blue-600: #155dfc;
+    --color-indigo-200: #c7d2ff;
+    --color-indigo-300: #a4b3ff;
+    --color-indigo-500: #625fff;
+    --color-indigo-800: #372aac;
     --color-gray-500: #6a7282;
     --color-gray-700: #364153;
     --color-gray-800: #1e2939;
@@ -55,6 +59,10 @@
   @supports (color: lab(0% 0 0)) {
     :root, :host {
       --color-blue-600: lab(44.0605% 29.0279 -86.0352);
+      --color-indigo-200: lab(84.4329% 3.18977 -23.9688);
+      --color-indigo-300: lab(74.0235% 8.54138 -41.6075);
+      --color-indigo-500: lab(48.295% 38.3129 -81.9673);
+      --color-indigo-800: lab(26.6645% 37.9804 -68.6402);
       --color-gray-500: lab(47.7841% -.393182 -10.0268);
       --color-gray-700: lab(27.1134% -.956401 -12.3224);
       --color-gray-800: lab(16.1051% -1.18239 -11.7533);
@@ -483,6 +491,14 @@
     color: var(--color-gray-800);
   }
 
+  .text-indigo-500 {
+    color: var(--color-indigo-500);
+  }
+
+  .text-indigo-800 {
+    color: var(--color-indigo-800);
+  }
+
   .text-white {
     color: var(--color-white);
   }
@@ -552,6 +568,18 @@
   @media (prefers-color-scheme: dark) {
     .dark\:bg-black {
       background-color: var(--color-black);
+    }
+  }
+
+  @media (prefers-color-scheme: dark) {
+    .dark\:text-indigo-200 {
+      color: var(--color-indigo-200);
+    }
+  }
+
+  @media (prefers-color-scheme: dark) {
+    .dark\:text-indigo-300 {
+      color: var(--color-indigo-300);
     }
   }
 
