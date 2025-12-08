@@ -1,5 +1,4 @@
-import Image from "next/image";
-import { FaGithub, FaLinkedin, FaMedium } from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaMedium, FaStackOverflow } from "react-icons/fa";
 
 export default function Home() {
   return (
@@ -43,6 +42,14 @@ export default function Home() {
           >
             <FaLinkedin className="w-6 h-6" />
             LinkedIn
+          </a>
+          <a
+            className="flex items-center gap-3 text-lg text-black dark:text-white hover:opacity-70"
+            href="https://stackoverflow.com/users/5626522/chamith-udayanga"
+            target="_blank"
+          >
+            <FaStackOverflow className="w-6 h-6" />
+            Stackoverflow
           </a>
         </div>
 
