@@ -28,15 +28,6 @@ export default function Home() {
 
           <a
             className="flex items-center gap-3 text-lg text-black dark:text-white hover:opacity-70"
-            href="https://medium.com/@udayangaac"
-            target="_blank"
-          >
-            <FaMedium className="w-6 h-6" />
-            Medium
-          </a>
-
-          <a
-            className="flex items-center gap-3 text-lg text-black dark:text-white hover:opacity-70"
             href="https://linkedin.com/in/udayangaac"
             target="_blank"
           >
